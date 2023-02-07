@@ -5,3 +5,5 @@ Android Google Codelab exercide about create a Visit Card app using Jetpack Comp
 
 
 ![Image Model](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-business-card/img/60ecde9fdd69536f_856.png?hl=pt-br "Image Model App")
+
+<img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-business-card/img/60ecde9fdd69536f_856.png?hl=pt-br" width="48">
